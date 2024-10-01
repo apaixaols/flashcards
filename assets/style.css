@@ -25,7 +25,7 @@ body {
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
   }
-  .cartao-conteudo p {
+  .cartao-conteúdo p {
     padding: 4rem;
   }
   .cartao-conteúdo h3 {
