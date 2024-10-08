@@ -46,6 +46,14 @@ body {
     color: var(--card-back-color);
     font-weight: 700;
   }
+
+.cartao:hover .cartao-conteúdo{ 
+  transform: rotate(180deg);
+}
+.cartao-conteúdo{
+  transform-style: preserve-3d;
+  transition: transform 300ms ease-in-out;
+}
   footer {
     background-color: black;
     color: white;
