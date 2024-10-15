@@ -53,8 +53,8 @@ body {
 .cartao:hover .cartao-conteúdo{
   transform: rotateY(180deg);
 }
-.cartao-conteudo-frente,
-.cartao-conteudo-verso{
+.cartao-conteudo-pergunta,
+.cartao-conteudo-resposta{
   backface-visibility: hidden;
 }
   footer {
