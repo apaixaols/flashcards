@@ -30,7 +30,7 @@ body {
   .cartao-conteúdo p {
     padding: 4rem;
   }
-  .cartao-conteúdo h3 {
+  .cartao-conteudo h3 {
     color: var(--text-color);
     border: 1px solid var(--text-color);
     text-align: left;
