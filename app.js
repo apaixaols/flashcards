@@ -12,5 +12,6 @@ function criaCartao(categoria, pergunta, resposta) {
                         <p>${resposta}</p>
                     </div>
                 </div>`
-    
+                let container = document.getElementById('container')
+       container. appendChild(cartao)
 }
