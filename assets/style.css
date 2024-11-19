@@ -50,7 +50,7 @@ body {
     font-weight: 700;
   }
 
-.cartao:hover .cartao-conteudo{
+.cartao.active .cartao-conteudo{
   transform: rotateY(180deg);
 }
 .cartao-conteudo-pergunta,
